@@ -11,5 +11,5 @@ class Book
   end
 end
 
-#book = Book.new("Some Book")
-#book.turn_page
+book = Book.new("Some Book")
+book.turn_page
